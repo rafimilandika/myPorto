@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "projects_id": "2",
+    "gambar": "/uploads/images-1753774811385.png"
+  },
+  {
+    "id": "2",
+    "projects_id": "2",
+    "gambar": "/uploads/images-1753774811392.png"
+  },
+  {
+    "id": "3",
+    "projects_id": "2",
+    "gambar": "/uploads/images-1753774811397.png"
+  },
+  {
+    "id": "4",
+    "projects_id": "2",
+    "gambar": "/uploads/images-1753774811398.png"
+  },
+  {
+    "id": "5",
+    "projects_id": "2",
+    "gambar": "/uploads/images-1753774811400.png"
+  },
+  {
+    "id": "6",
+    "projects_id": "3",
+    "gambar": "/uploads/images-1753784800710.png"
+  },
+  {
+    "id": "7",
+    "projects_id": "3",
+    "gambar": "/uploads/images-1753784800722.png"
+  },
+  {
+    "id": "8",
+    "projects_id": "3",
+    "gambar": "/uploads/images-1753784800724.png"
+  },
+  {
+    "id": "9",
+    "projects_id": "3",
+    "gambar": "/uploads/images-1753784800725.png"
+  },
+  {
+    "id": "10",
+    "projects_id": "4",
+    "gambar": "/uploads/images-1753787395148.png"
+  },
+  {
+    "id": "11",
+    "projects_id": "4",
+    "gambar": "/uploads/images-1753787395173.png"
+  }
+]

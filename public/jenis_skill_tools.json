@@ -1,0 +1,18 @@
+[
+  { "id": "1", "jenis_skill_id": "1", "tools_id": "1" },
+  { "id": "2", "jenis_skill_id": "1", "tools_id": "2" },
+  { "id": "3", "jenis_skill_id": "1", "tools_id": "3" },
+  { "id": "4", "jenis_skill_id": "1", "tools_id": "4" },
+  { "id": "5", "jenis_skill_id": "1", "tools_id": "5" },
+  { "id": "6", "jenis_skill_id": "2", "tools_id": "6" },
+  { "id": "7", "jenis_skill_id": "2", "tools_id": "7" },
+  { "id": "8", "jenis_skill_id": "2", "tools_id": "8" },
+  { "id": "9", "jenis_skill_id": "3", "tools_id": "9" },
+  { "id": "10", "jenis_skill_id": "3", "tools_id": "10" },
+  { "id": "11", "jenis_skill_id": "4", "tools_id": "11" },
+  { "id": "12", "jenis_skill_id": "4", "tools_id": "12" },
+  { "id": "13", "jenis_skill_id": "4", "tools_id": "13" },
+  { "id": "14", "jenis_skill_id": "4", "tools_id": "14" },
+  { "id": "15", "jenis_skill_id": "4", "tools_id": "15" },
+  { "id": "16", "jenis_skill_id": "4", "tools_id": "16" }
+]

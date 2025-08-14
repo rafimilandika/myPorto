@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "nama": "React JS",
+    "keahlian": "81",
+    "gambar": "/uploads/gambar-1753599593713.png",
+    "created_at": "2025-07-26 12:58:24"
+  },
+  {
+    "id": "2",
+    "nama": "Javascript",
+    "keahlian": "85",
+    "gambar": "/uploads/gambar-1753602126530.png",
+    "created_at": "2025-07-27 14:42:06"
+  },
+  {
+    "id": "3",
+    "nama": "HTML",
+    "keahlian": "93",
+    "gambar": "/uploads/gambar-1753602167618.png",
+    "created_at": "2025-07-27 14:42:47"
+  },
+  {
+    "id": "4",
+    "nama": "CSS",
+    "keahlian": "95",
+    "gambar": "/uploads/gambar-1753602209791.png",
+    "created_at": "2025-07-27 14:43:29"
+  },
+  {
+    "id": "5",
+    "nama": "Bootstrap",
+    "keahlian": "55",
+    "gambar": "/uploads/gambar-1753602362439.png",
+    "created_at": "2025-07-27 14:46:02"
+  },
+  {
+    "id": "6",
+    "nama": "Node JS",
+    "keahlian": "75",
+    "gambar": "/uploads/gambar-1753602417581.png",
+    "created_at": "2025-07-27 14:46:57"
+  },
+  {
+    "id": "7",
+    "nama": "Laravel",
+    "keahlian": "80",
+    "gambar": "/uploads/gambar-1753602482240.png",
+    "created_at": "2025-07-27 14:48:02"
+  },
+  {
+    "id": "8",
+    "nama": "PHP",
+    "keahlian": "85",
+    "gambar": "/uploads/gambar-1753602523866.png",
+    "created_at": "2025-07-27 14:48:43"
+  },
+  {
+    "id": "9",
+    "nama": "Mysql",
+    "keahlian": "87",
+    "gambar": "/uploads/gambar-1753602567087.png",
+    "created_at": "2025-07-27 14:49:27"
+  },
+  {
+    "id": "10",
+    "nama": "MongoDB",
+    "keahlian": "50",
+    "gambar": "/uploads/gambar-1753602618089.png",
+    "created_at": "2025-07-27 14:50:18"
+  },
+  {
+    "id": "11",
+    "nama": "Git",
+    "keahlian": "60",
+    "gambar": "/uploads/gambar-1753602662883.png",
+    "created_at": "2025-07-27 14:51:02"
+  },
+  {
+    "id": "12",
+    "nama": "GitHub",
+    "keahlian": "75",
+    "gambar": "/uploads/gambar-1753602700359.png",
+    "created_at": "2025-07-27 14:51:40"
+  },
+  {
+    "id": "13",
+    "nama": "Visual Studio Code",
+    "keahlian": "92",
+    "gambar": "/uploads/gambar-1753602764456.png",
+    "created_at": "2025-07-27 14:52:44"
+  },
+  {
+    "id": "14",
+    "nama": "Adobe XD",
+    "keahlian": "76",
+    "gambar": "/uploads/gambar-1753602804009.png",
+    "created_at": "2025-07-27 14:53:24"
+  },
+  {
+    "id": "15",
+    "nama": "Adobe Photoshop",
+    "keahlian": "94",
+    "gambar": "/uploads/gambar-1753602856961.png",
+    "created_at": "2025-07-27 14:54:16"
+  },
+  {
+    "id": "16",
+    "nama": "Adobe Ilustrator",
+    "keahlian": "40",
+    "gambar": "/uploads/gambar-1753768636985.png",
+    "created_at": "2025-07-29 12:57:17"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2",
+    "nama": "Simple social media",
+    "detail": "A social media application that includes all the necessary social media functions, such as logging in, managing user data, creating posts, and communicating with other users",
+    "link_github": "https://github.com/rafimilandika/Social-Media",
+    "live_demo_link": null,
+    "created_at": "2025-07-29 14:40:11"
+  },
+  {
+    "id": "3",
+    "nama": " Financial web application",
+    "detail": "A useful application for recording and displaying monthly income and expenses calculations, presented in interactive diagrams with detailed data presentations according to your needs. Features include login, account management, income management, and expense management.",
+    "link_github": "https://github.com/rafimilandika/finance",
+    "live_demo_link": null,
+    "created_at": "2025-07-29 17:26:40"
+  },
+  {
+    "id": "4",
+    "nama": "Contact Management Application",
+    "detail": "This application manages saved phone numbers. Besides managing contact data, it also provides contact grouping based on specific criteria and live search.",
+    "link_github": "https://github.com/rafimilandika/contact",
+    "live_demo_link": null,
+    "created_at": "2025-07-29 18:09:55"
+  }
+]

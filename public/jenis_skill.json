@@ -1,0 +1,10 @@
+[
+  { "id": "1", "nama": "FRONT END", "created_at": "2025-07-23 12:24:51" },
+  { "id": "2", "nama": "BACKEND", "created_at": "2025-07-23 12:24:51" },
+  { "id": "3", "nama": "DATABASE", "created_at": "2025-07-23 12:24:51" },
+  {
+    "id": "4",
+    "nama": "Development Tools & Software",
+    "created_at": "2025-07-23 12:24:51"
+  }
+]
