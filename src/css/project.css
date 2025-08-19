@@ -1021,3 +1021,16 @@ a {
     align-items: center;
   }
 }
+@media screen and (width: 412px) {
+  .title :nth-child(4) {
+    /* color: red; */
+    margin-right: 200px;
+  }
+  .title :nth-child(15) {
+    /* color: red; */
+    margin-right: 10px;
+  }
+  .title h1 {
+    color: #070640;
+  }
+}
