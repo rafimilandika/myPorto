@@ -418,6 +418,7 @@ a {
   position: relative;
   display: grid;
   grid-template-rows: 1fr 6fr;
+  padding-top: 20px;
 }
 .pattern_aboutMe {
   position: absolute;
