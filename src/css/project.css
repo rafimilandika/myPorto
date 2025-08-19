@@ -138,6 +138,7 @@ a {
   font-size: 90px;
   margin-bottom: 20px;
   font-weight: 800;
+  color: #070640;
 }
 .title h1 .animated-char {
   animation: 0.8s judul ease-in-out forwards;
